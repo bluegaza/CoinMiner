@@ -1,0 +1,2 @@
+# CoinMiner
+python bitcoin miner
